@@ -1,10 +1,10 @@
 ## Hi, I'm Kafin 👋
 
-**Principal Engineer · Full-Stack · Blockchain · AI** &nbsp;|&nbsp; [kafin.dev](https://kafin.dev) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/kafinsalim) &nbsp;|&nbsp; [Email](mailto:kafinsalim@gmail.com)
+**Software Engineer · Full-Stack · Blockchain · AI** &nbsp;|&nbsp; [kafin.dev](https://kafin.dev) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/kafinsalim) &nbsp;|&nbsp; [Email](mailto:kafinsalim@gmail.com)
 
 ---
 
-I build products end-to-end — from React UIs and REST/GraphQL APIs to Solana smart contracts and AI-powered pipelines. I've shipped to 1.4M+ Discord servers, launched NFT collections, and led engineering teams as Principal Engineer.
+I build products end-to-end — from React UIs and REST/GraphQL APIs to Solana smart contracts and AI-powered pipelines. I've shipped to 1.4M+ Discord servers, launched NFT collections, and led engineering teams.
 
 Currently building **[Fokuslah](https://github.com/fokuslah)** — an AI-powered learning platform for high school students.
 
@@ -14,16 +14,17 @@ Currently building **[Fokuslah](https://github.com/fokuslah)** — an AI-powered
 
 | Layer | Tools |
 |---|---|
-| **Frontend** | React · Next.js · TypeScript · GraphQL · Tailwind |
+| **Frontend** | React · React Native · Next.js · TypeScript · GraphQL · Tailwind |
 | **Backend** | Node.js · Nest.js · Go · Rust · FastAPI |
 | **Database & DevOps** | PostgreSQL · Docker · Kubernetes · AWS · Linux |
-| **Blockchain & Mobile** | Solana · Ethereum · Web3 · React Native |
+| **Blockchain** | Solana · Ethereum · Web3 |
 | **AI / ML** | Claude API · LangChain · RAG · Prompt Engineering |
 
 ---
 
 ### 🚀 Highlights
 
+- 🏢 **Tech Lead @ Fokuslah** - led full stack development of Edutech quiz web app serving **10K+ users**
 - 🏢 **Principal Engineer @ Tatsu** — led frontend & architecture for a Discord bot platform serving **1.4M+ servers**
 - 🎮 **Tatsumeeko** — shipped the web & mobile experience for a cross-platform JRPG-lite game
 - 🤖 **AI Math Tagger** — auto-classifies high school math questions by topic & difficulty using Claude
@@ -39,7 +40,7 @@ Currently building **[Fokuslah](https://github.com/fokuslah)** — an AI-powered
 |---|---|---|
 | [simple-money-tracker](https://github.com/kfnx/simple-money-tracker) | Expense tracker built with AI tools | TypeScript · Supabase |
 | [math-question-ai-tagging](https://github.com/kfnx/math-question-ai-tagging) | AI auto-tagger for math quiz questions | Python · Claude API |
-| [paceterminal](https://github.com/kfnx/paceterminal) | Terminal productivity tool | TypeScript |
+| [paceterminal](https://github.com/kfnx/paceterminal) | Crypto Terminal analytics tool | Next.js · TypeScript · Supabase |
 | [pokedex-pintar](https://github.com/kfnx/pokedex-pintar) | Animated Pokédex with Framer Motion | React · GraphQL |
 | [Chinasat11-auto-tracking](https://github.com/kfnx/Chinasat11-auto-tracking) | Arduino satellite auto-tracking system | C++ |
 | [wave-portal](https://github.com/kfnx/wave-portal) | On-chain wave portal dApp | Solidity · Web3 |
